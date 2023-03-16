@@ -49,4 +49,4 @@ https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 ```
 
 
-# 最后将软路由的DNS设置为其ip地址如192.168.11.1
+## 最后将软路由的DNS设置为其ip地址如192.168.11.1
