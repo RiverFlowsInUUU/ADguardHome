@@ -19,7 +19,7 @@
 1.1.1.1:54
 ```
 
-## 规则
+## 规则订阅
 ```
 HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（每周更新)
 https://gitee.com/halflife/list/raw/master/ad.txt
@@ -35,4 +35,15 @@ https://easylist-downloads.adblockplus.org/easylistchina.txt
  
 xinggsf，乘风广告过滤规则
 https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+```
+
+## 自定义规则 去除YouTube广告
+```
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+||safebrowsing.googleapis-cn.com
+||doubleclick.net
 ```
