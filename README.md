@@ -6,19 +6,9 @@
 ```
 223.5.5.5
 114.114.114.114
+（建议填入本地运营商DNS）
 8.8.8.8
 8.8.4.4
-101.226.4.6
-tls://dot.360.cn
-120.196.165.24
-https://dns10.quad9.net/dns-query
-https://dns.google/dns-query
-https://doh.360.cn/dns-query
-https://doh-jp.blahdns.com/dns-query
-https://dns.alidns.com/dns-query
-tls://dns.alidns.com
-tls://dns.google
-tls://1dot1dot1dot1.cloudflare-dns.com
 ```
 
 ## 负载均衡
