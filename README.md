@@ -29,6 +29,9 @@ https://120.53.53.53/dns-query
 1.1.1.1:54
 ```
 
+## DNS缓存关闭 查询速度0
+
+
 ## 规则订阅
 ```
 HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（每周更新)
