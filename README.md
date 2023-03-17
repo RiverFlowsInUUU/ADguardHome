@@ -64,6 +64,8 @@ https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 
 ## 与openclash相配合
 参考网址：https://github.com/vernesong/OpenClash/discussions/1420
-```openclash：关闭本地DNS劫持，打开自定义上游DNS
-Adguard Home：上游DNS设置为12.7.0.0.1:7874```
+```
+openclash：关闭本地DNS劫持，打开自定义上游DNS
+Adguard Home：上游DNS设置为12.7.0.0.1:7874
+```
 
