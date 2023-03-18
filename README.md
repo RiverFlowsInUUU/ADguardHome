@@ -33,11 +33,10 @@ https://120.53.53.53/dns-query
 
 
 ## 规则订阅
+
 ```
-HalfLife，规则合并自 EasylistChina、EasylistLite、CJX’sAnnoyance 合并规则（每周更新)
-https://gitee.com/halflife/list/raw/master/ad.txt
- 
-anti-AD 目前中文区命中率最高的广告过滤列表，精确的广告屏蔽和隐私保护。已支持AdGuardHome，dnsmasq，Surge，Pi-Hole，SmartDNS等。Github地址：https://github.com/privacy-protection-tools/anti-AD
+anti-AD 
+Github地址：https://github.com/privacy-protection-tools/anti-AD
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
  
 ChinaList+EasyList
@@ -45,9 +44,14 @@ http://sub.adtchrome.com/adt-chinalist-easylist.txt
  
 EasyList China 中文补充规则
 https://easylist-downloads.adblockplus.org/easylistchina.txt
- 
-xinggsf，乘风广告过滤规则
-https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+
+BlueSkyXN 百万拦截
+Github地址：https://github.com/BlueSkyXN/AdGuardHomeRules
+https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+
+秋风のとおり道
+Github地址：https://github.com/TG-Twilight/AWAvenue-Adblock-Rule
+https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ```
 
 ## 自定义规则 去除YouTube广告
