@@ -73,7 +73,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblo
 参考：https://github.com/vernesong/OpenClash/discussions/1420
 ```
 openclash：关闭本地DNS劫持，打开自定义上游DNS
-Adguard Home：上游DNS设置为12.7.0.0.1:7874
+Adguard Home：上游DNS设置为127.0.0.1:7874
 ```
 ## SSR Plus 设置 先开AD Home 再开SSRP
 ![image](https://user-images.githubusercontent.com/66954900/227261341-76f48a37-9bce-40c2-ab3f-aa50a729a1fd.png)
