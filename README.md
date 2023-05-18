@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brands.home-assistant.io/_/adguard/logo.png">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://brands.home-assistant.io/_/adguard/logo.png">
+</picture>
+<p align="center">
+ 
 ## 重定向53端口到Adguard Home
 
 ## 两个端口冲突，第一个3000，第二个54
